@@ -1,0 +1,140 @@
+{
+  "ilped_front": {
+    "title": "ILPED CLOUDFRONT",
+    "value": "appassets.kuncie.com",
+    "wildcard": false,
+    "sni": false
+  },
+  "ilpedv1": {
+    "title": "ILPED NEW",
+    "value": "104.18.9.196",
+    "wildcard": false,
+    "sni": false
+  },
+  "ilpedqui": {
+    "title": "ILPED QUIPER",
+    "value": "api.quipper.com",
+    "wildcard": true,
+    "sni": false
+  },
+  "vidio": {
+    "title": "XL VIDIO PORT 443",
+    "value": "quiz.vidio.com",
+    "wildcard": false,
+    "sni": false
+  },
+  "xl_edu_cloudfront": {
+    "title": "XL EDU CLOUDFRONT",
+    "value": "www.zenius.com",
+    "wildcard": false,
+    "sni": false
+  },
+  "edu": {
+    "title": "XL EDU NJS",
+    "value": "104.17.3.81",
+    "wildcard": false,
+    "sni": false
+  },
+  "gamemax": {
+    "title": "TSEL GAMEMAX",
+    "value": "ir.huya.com",
+    "wildcard": false,
+    "sni": false
+  },
+  "game": {
+    "title": "XL GAME OPOK",
+    "value": "poe.garena.com",
+    "wildcard": false,
+    "sni": false
+  },
+  "tiktok": {
+    "title": "XL TIKTOK WC",
+    "value": "api24-normal.tiktokv.com",
+    "wildcard": true,
+    "sni": false
+  },
+  "tiktokv1": {
+    "title": "TELKOMSEL TIKTOK JS",
+    "value": "api24-normal.tiktokv.com",
+    "wildcard": false,
+    "sni": true
+  },
+  "sfchat": {
+    "title": "XL AXIS WA SFCHAT",
+    "value": "chat.whatsapp.com",
+    "wildcard": false,
+    "sni": true
+  },
+  "prio": {
+    "title": "OPOK XL PRIORITAS 1 GB WC",
+    "value": "ava.game.naver.com",
+    "wildcard": true,
+    "sni": false
+  },
+  "xl_iflix_cloudfront": {
+    "title": "XL IFLIX CLOUDFRONT",
+    "value": "www.iflix.com",
+    "wildcard": false,
+    "sni": false
+  },
+  "iflix": {
+    "title": "XL IFLIX",
+    "value": "www.iflix.com",
+    "wildcard": false,
+    "sni": true
+  },
+  "wa js": {
+    "title": "XL AXIS WA JABAR",
+    "value": "listen.noice.id",
+    "wildcard": false,
+    "sni": true
+  },
+    "wa ks": {
+    "title": "XL AXIS WA SUMATRA",
+    "value": "listen.noice.id",
+    "wildcard": true,
+    "sni": false
+  },
+    "wa jsv1": {
+    "title": "XL AXIS WA JABAR V1",
+    "value": "media.fcgk35-1.fna.whatsapp.com",
+    "wildcard": false,
+    "sni": true
+  },
+  "wa njs": {
+    "title": "XL AXIS WA NJS",
+    "value": "104.18.1.196",
+    "wildcard": false,
+    "sni": false
+  },
+  "appfun": {
+    "title": "ISAT FUN [NETFLIX] WC",
+    "value": "cache.netflix.com",
+    "wildcard": true,
+    "sni": false
+  },
+  "spotify": {
+    "title": "AXIS MUSIK [SPOTIFY] WC",
+    "value": "investors.spotify.com",
+    "wildcard": true,
+    "sni": false
+  },
+  "zoom": {
+    "title": "XL CONFRECE WC",
+    "value": "support.zoom.us",
+    "wildcard": true,
+    "sni": false
+  },
+  "flexy": {
+    "title": "CONFRECE ZOOM WS XL / HALO FLEXY",
+    "value": "support.zoom.us",
+    "wildcard": false,
+    "sni": true
+  },
+  "isat30": {
+    "title": "ISAT EDU JS PORT 443",
+    "value": "support.zoom.us",
+    "wildcard": false,
+    "sni": true
+  }
+}
