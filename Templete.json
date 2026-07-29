@@ -1,13 +1,13 @@
 {
   "axisopok": {
-    "title": "AXIS OPOK 100 MB",
+    "title": "tes",
     "payload": "GET / HTTP/1.1[crlf]Host: [host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
     "proxy": "app.gopay.co.id:443",
     "sni": "[host]",
     "enhanced": ""
 
     "ig": {
-    "title": "XL AXIS IG",
+    "title": "tes2",
     "payload": "",
     "proxy": "",
     "sni": "graph.instagram.com",
