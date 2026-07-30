@@ -265,7 +265,6 @@
     "sni": "",
     "enhanced": ""
   },
-  },
   "iflix": {
     "title": "SURYACONFIG XL AXIS IFLIX",
     "payload": "",
@@ -336,4 +335,5 @@
     "sni": "",
     "enhanced": ""
   }
+}
 
