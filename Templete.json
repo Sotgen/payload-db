@@ -216,25 +216,124 @@
     "sni": "",
     "enhanced": ""
   },
-    "vidio": {
-    "title": "XL AXIS VIDIO",
-    "payload": "GET / HTTP/1.1[crlf]Host: quiz.int.vidio.com[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
-    "proxy": "quiz.int.vidio.com:80",
+    "spotifyold": {
+    "title": "SURYACONFIG XL AXIS SPOTIFY V2",
+    "payload": "HEAD /cdn-cgi/trace HTTP/1.1[crlf]Host: investors.spotify.com[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf][split]HTTP/ 200[crlf][crlf]",
+    "proxy": "162.159.130.11:80",
+    "sni": "",
+    "enhanced": ""
+  },
+    "sushiroll": {
+    "title": "SURYACONFIG XL AXIS SUSHIROL",
+    "payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]Host: [host][crlf][crlf]GET-RAY / HTTP/1.1[crlf]Host: [host][crlf]Connection: Upgrade[crlf]User-Agent: @surya[ua][crlf]Upgrade: websocket[crlf][crlf]",
+    "proxy": "www.sushiroll.co.id:80",
     "sni": "",
     "enhanced": "true"
   },
-    "vision": {
-    "title": "XL VISION",
-    "payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]Host: cbn-cdn-flr.visionplus.id[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
-    "proxy": "cbn-cdn-flr.visionplus.id:80",
+    "vidiossl": {
+    "title": "SURYACONFIG XL AXIS VIDIO SSL",
+    "payload": "",
+    "proxy": "",
+    "sni": "static-quiz.prod.vidiocdn.com",
+    "enhanced": ""
+  },
+    "udemy": {
+    "title": "SURYACONFIG XL AXIS UDEMY",
+    "payload": "GET / HTTP/1.1[crlf]Host: bimbel.ruangguru.com[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf][split]HTTP/ 69[crlf][crlf]",
+    "proxy": "edu.udemy.com",
+    "sni": "",
+    "enhanced": ""
+  },
+    "vidio": {
+    "title": "SURYACONFIG XL AXIS VIDIO",
+    "payload": "GET / HTTP/1.1[crlf]Host: [host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+    "proxy": "quiz.vidio.com:80",
     "sni": "",
     "enhanced": "true"
+  },
+    "wassl": {
+    "title": "SURYACONFIG XL AXIS WA SSL",
+    "payload": "",
+    "proxy": "",
+    "sni": "ssl-listen.noice.id",
+    "enhanced": ""
+  },
+    "waws": {
+    "title": "SURYACONFIG XL AXIS WA WS",
+    "payload": "HEAD / HTTP/1.1[crlf]Host: listen.noice.id:80[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf][crlf]BMOVE / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]",
+    "proxy": "listen.noice.id:80",
+    "sni": "",
+    "enhanced": ""
+  },
+  },
+  "iflix": {
+    "title": "SURYACONFIG XL AXIS IFLIX",
+    "payload": "",
+    "proxy": "",
+    "sni": "upload.wetv.vip",
+    "enhanced": ""
+  },
+    "netflix": {
+    "title": "SURYACONFIG XL AXIS NETFLIX",
+    "payload": "HEAD /cdn-cgi/trace HTTP/1.1[crlf]Host: npaa.pc.netflix.net[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf][split]HTTP/ 200[crlf][crlf]",
+    "proxy": "104.17.241.25:80",
+    "sni": "",
+    "enhanced": ""
+  },
+    "pros": {
+    "title": "SURYACONFIG XL AXIS PROS",
+    "payload": "",
+    "proxy": "",
+    "sni": "v.whatsapp.net",
+    "enhanced": ""
+  },
+    "tiktok": {
+    "title": "SURYACONFIG XL AXIS TIKTOK",
+    "payload": "GET / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf][repeat]PATCH https://[host] HTTP/1.1[crlf]Host: api24-normal.tiktokv.com[crlf]Upgrade: websocket[crlf][crlf]HTTP/ 9999[crlf][crlf]",
+    "proxy": "162.159.141.236:80",
+    "sni": "",
+    "enhanced": "true"
+  },
+    "vision+": {
+    "title": "SURYACONFIG XL AXIS VISION+",
+    "payload": "GET / HTTP/1.1[crlf]Host: [host_port][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+    "proxy": "104.18.0.25:80",
+    "sni": "",
+    "enhanced": ""
+  },
+    "viu": {
+    "title": "SURYACONFIG XL AXIS VIU",
+    "payload": "HEAD /cdn-cgi/trace HTTP/1.1[crlf]Host: zaintest.vuclip.com[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf][split]HTTP/ 200[crlf][crlf]",
+    "proxy": "zaintest.vuclip.com:80",
+    "sni": "",
+    "enhanced": "true"
+  },
+    "dfgames": {
+    "title": "SURYACONFIG XL FLEX WLG UTS AVA",
+    "payload": "HEAD /cdn-cgi/trace HTTP/1.1[crlf]Host: df.game.naver.com[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf][split]HTTP/ 200[crlf][crlf]",
+    "proxy": "104.18.214.235:80",
+    "sni": "",
+    "enhanced": "true"
+  },
+    "line": {
+    "title": "SURYACONFIG XL FLEX WLG UTS LINE",
+    "payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]Host: blog.clova.line.me[crlf][crlf]BMOVE / [protocol][crlf]Host: [host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf][split]HTTP/1.1 200 OK[crlf][crlf]",
+    "proxy": "df.game.naver.com:80",
+    "sni": "",
+    "enhanced": ""
   },
     "ig": {
-    "title": "XL AXIS IG",
+    "title": "SURYACONFIG XL FLEX WLG UTS IG",
     "payload": "",
     "proxy": "",
     "sni": "graph.instagram.com",
+    "enhanced": ""
+  },
+    "genflix": {
+    "title": "XL AXIS GENFLIX",
+    "payload": "GET / HTTP/1.1[crlf]Host: [host_port][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+    "proxy": "beta.genflix.co.id:80",
+    "sni": "",
     "enhanced": ""
   }
 }
