@@ -1,135 +1,135 @@
 {
   "appfun": {
-    "title": "ISAT APPFUN",
+    "title": "SURYACONFIG ISAT APPFUN",
     "payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]Host: creativeservices.netflix.com[crlf][crlf]GET-RAY / [protocol][crlf]Host: [host][crlf]Connection: Keep-Alive[crlf]Upgrade: websocket[crlf]User-Agent: [ua][crlf][crlf]",
     "proxy": "104.16.49.231:80",
     "sni": "",
     "enhanced": ""
   },
     "isatedu": {
-    "title": "ISAT EDU 12GB",
+    "title": "SURYACONFIG ISAT EDU 12GB",
     "payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]Host: devsupport.webex.com[crlf][crlf]CF-RAY / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
     "proxy": "carrier.webex.com:80",
     "sni": "",
     "enhanced": ""
   },
   "isatedu30": {
-    "title": "ISAT EDU 30GB",
+    "title": "SURYACONFIG ISAT EDU 30GB",
     "payload": "",
     "proxy": "support.zoom.us:80",
     "sni": "",
     "enhanced": ""
   },
     "isatgame": {
-    "title": "ISAT GAME",
+    "title": "SURYACONFIG ISAT GAME",
     "payload": "PATCH / HTTP/1.1[crlf]Host: [host][crlf]Host: www.pubgmobile.com[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf][crlf]",
     "proxy": "104.18.62.229:80",
     "sni": "",
     "enhanced": "true"
   },
     "sfchat": {
-    "title": "SMART CHAT",
+    "title": "SURYACONFIG SMART CHAT",
     "payload": "",
     "proxy": "",
     "sni": "web.whatsapp.com",
     "enhanced": ""
   },
   "sfedu": {
-    "title": "SMART EDU",
+    "title": "SURYACONFIG SMART EDU",
     "payload": "GET / HTTP/1.1[crlf]Host: bimbel.ruangguru.com[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf][split]HTTP/ 69[crlf][crlf]",
     "proxy": "104.17.3.81:80",
     "sni": "",
     "enhanced": "true"
   },
-    "ilpedv1": {
-    "title": "TSEL ILPED NEW",
-    "payload": "GET / HTTP/1.1[crlf]Host: [host][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]User-Agent: [ua][crlf][crlf]",
-    "proxy": "104.18.9.196:443",
+    "sfgame": {
+    "title": "SURYACONFIG SMART GAME",
+    "payload": "PATCH / HTTP/1.1[crlf]Host: beta.zoom.us[crlf][crlf]GET / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf][split]HTTP/ 69[crlf][crlf]",
+    "proxy": "poe.garena.com",
+    "sni": "",
+    "enhanced": ""
+  },
+    "sfopok": {
+    "title": "SURYACONFIG SMART OPOK",
+    "payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]Host: embed.tawk.to[crlf][crlf]CF-RAY / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+    "proxy": "api.ovo.id",
+    "sni": "",
+    "enhanced": ""
+  },
+    "sfyoutube": {
+    "title": "SURYACONFIG SMART YOUTUBE",
+    "payload": "",
+    "proxy": "",
+    "sni": "restrict.youtube.com",
+    "enhanced": ""
+  },
+  "wifiid": {
+    "title": "SURYACONFIG WIFI ID",
+    "payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]Host: ruangguru.com[crlf][crlf]CF-RAY / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+    "proxy": "ruangguru.com:80",
+    "sni": "",
+    "enhanced": ""
+  },
+  "byuggwp": {
+    "title": "SURYACONFIG BYU GGWP",
+    "payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]Host: 104.19.143.108[crlf][crlf]CF-RAY / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+    "proxy": "104.19.143.108:80",
+    "sni": "",
+    "enhanced": ""
+  },
+  "byuopok": {
+    "title": "SURYACONFIG BYU OPOK SSL",
+    "payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]Host: space.byu.id[crlf][crlf]GET-RAY / HTTP/1.1[crlf]Host: [host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+    "proxy": "space.byu.id:443",
     "sni": "[host]",
     "enhanced": ""
   },
-    "ilped": {
-    "title": "TSEL ILPED SSL",
-    "payload": "",
-    "proxy": "",
-    "sni": "practicesets.classroom.google.com",
+  "byurg": {
+    "title": "SURYACONFIG TSELBYU RG",
+    "payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]Host: gw.ruangguru.com[crlf][crlf]MDevz / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+    "proxy": "gw.ruangguru.com:80",
+    "sni": "",
     "enhanced": ""
   },
-    "halo flexy": {
-    "title": "TSEL HALLO FLEXY",
-    "payload": "",
-    "proxy": "",
-    "sni": "support.zoom.us",
+  "tselbyuilmupediassl": {
+    "title": "SURYACONFIG TSEL BYU ILMUPEDIA SSL",
+    "payload": "GET / HTTP/1.1[crlf]Host: [host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+    "proxy": "support.zoom.us:443",
+    "sni": "[host] ",
     "enhanced": ""
   },
-  "gamemax": {
-    "title": "TSEL GAMEMAX",
-    "payload": "GET / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf][crlf]",
-    "proxy": "ir.huya.com:443",
+    "tselbyuilmupedia": {
+    "title": "SURYACONFIG TSELBYU ILMUPEDIA",
+    "payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]Host: support.zoom.us [crlf][crlf]GET-RAY / HTTP/1.1[crlf]Host: [host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+    "proxy": "170.114.46.6:80",
+    "sni": "",
+    "enhanced": ""
+  },
+    "gamesmaxirhuya": {
+    "title": "SURYACONFIG TSEL GAMESMAX IRHUYA",
+    "payload": "GET wss://[host]/ HTTP/1.1[crlf]Host: ir.huya.com[crlf]Content-Lenght: [crlf]Connection: Upgrade[crlf]User-Agent: @suryaconfig[ua][crlf]Upgrade: websocket[crlf][crlf]",
+    "proxy": " 104.17.202.159:80",
+    "sni": "",
+    "enhanced": ""
+  },
+    "gamesmaxnimotv": {
+    "title": "TSEL GAMESMAX NIMO TV",
+    "payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]Host: cf-vod.nimo.tv[crlf][crlf]CF-RAY / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+    "proxy": " cf-vod.nimo.tv:80",
+    "sni": "",
+    "enhanced": ""
+  },
+    "maxstream": {
+    "title": "TSEL MAXSTREAM",
+    "payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]Host: creativeservices.netflix.com[crlf][crlf]GET-RAY / [protocol][crlf]Host: [host][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]User-Agent: [ua][crlf][crlf]",
+    "proxy": "104.17.241.25",
+    "sni": "",
+    "enhanced": "true"
+  },
+  "tselopokssl": {
+    "title": "SURYACONFIG TSEL OPOK SSL",
+    "payload": "GET-CDN /wss HTTP/1.1[crlf]Host: [host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+    "proxy": "app-stg.gopay.co.id:443",
     "sni": "[host]",
-    "enhanced": ""
-  },
-  "tiktok": {
-    "title": "XL TIKTOK/THREE SOSMED",
-    "payload": "GET / HTTP/1.1[crlf]Host: api24-normal.tiktokv.com[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: Websocket[crlf][crlf]",
-    "proxy": "api24-normal.tiktokv.com:80",
-    "sni": "",
-    "enhanced": "true"
-  },
-  "tiktokv1": {
-    "title": "TSEL BYU TIKTOK",
-    "payload": "",
-    "proxy": "",
-    "sni": "api24-normal.tiktokv.com",
-    "enhanced": ""
-  },
-  "XL PRIO": {
-    "title": "XL OPOK PRIO",
-    "payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]Host: ava.game.naver.com[crlf]Connection: Keep-Alive[crlf][crlf]GET-RAY / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]",
-    "proxy": "ava.game.naver.com:80",
-    "sni": "",
-    "enhanced": "true"
-  },
-  "musik": {
-    "title": "XL AXIS MUSIK SPOTIFY",
-    "payload": "PATCH /ssh-ws HTTP/1.1[crlf]Host: [host][crlf]Host: zendesk1.spotify.com[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf][crlf]",
-    "proxy": "investors.spotify.com:80",
-    "sni": "",
-    "enhanced": "true"
-  },
-    "sfchat": {
-    "title": "SMARTFREN CHAT NONSTOP",
-    "payload": "",
-    "proxy": "",
-    "sni": "chat.whatsapp.com",
-    "enhanced": ""
-  },
-    "WA KS": {
-    "title": "XL AXIS WA SUMATRA",
-    "payload": "GET / HTTP/1.1[crlf]Host: listen.noice.id:80[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf][crlf]BMOVE / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]",
-    "proxy": "listen.noice.id:80",
-    "sni": "",
-    "enhanced": "true"
-  },
-    "WA JS": {
-    "title": "XL AXIS WA JABAR",
-    "payload": "",
-    "proxy": "",
-    "sni": "listen.noice.id",
-    "enhanced": ""
-  },
-    "WA JSV1": {
-    "title": "XL AXIS WA JABAR V1",
-    "payload": "",
-    "proxy": "",
-    "sni": "media.fcgk35-1.fna.whatsapp.com",
-    "enhanced": ""
-  },
-  "WA NJS": {
-    "title": "XL AXIS WA NON JABAR SUMATRA",
-    "payload": "PATCH /ssh-ws HTTP/1.1[crlf]Host: [host][crlf]Host: listen.noice.id[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf][crlf]",
-    "proxy": "104.18.1.196:80",
-    "sni": "",
     "enhanced": ""
   },
   "IFLIX": {
