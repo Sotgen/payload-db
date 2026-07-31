@@ -158,7 +158,7 @@
     "payload": "HEAD / HTTP/1.1[crlf]Host: io.ruangguru.com:80[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf][crlf]BMOVE / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]",
     "proxy": "104.17.74.206:80",
     "sni": "",
-    "enhanced": ""
+    "enhanced": "true"
   },
   "gamebooster": {
     "title": "SURYACONFIG XL AXIS GAME BOOSTER",
