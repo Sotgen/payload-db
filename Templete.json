@@ -1,132 +1,132 @@
 {
   "appfun": {
-    "title": "SURYACONFIG ISAT APPFUN",
+    "title": " ISAT APPFUN",
     "payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]Host: creativeservices.netflix.com[crlf][crlf]GET-RAY / [protocol][crlf]Host: [host][crlf]Connection: Keep-Alive[crlf]Upgrade: websocket[crlf]User-Agent: [ua][crlf][crlf]",
     "proxy": "104.16.49.231:80",
     "sni": "",
     "enhanced": ""
   },
   "isatedu": {
-    "title": "SURYACONFIG ISAT EDU 12GB",
+    "title": " ISAT EDU 12GB",
     "payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]Host: devsupport.webex.com[crlf][crlf]CF-RAY / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
     "proxy": "carrier.webex.com:80",
     "sni": "",
     "enhanced": ""
   },
   "isatedu30": {
-    "title": "SURYACONFIG ISAT EDU 30GB",
+    "title": " ISAT EDU 30GB",
     "payload": "",
     "proxy": "support.zoom.us:80",
     "sni": "",
     "enhanced": ""
   },
   "isatgame": {
-    "title": "SURYACONFIG ISAT GAME",
+    "title": " ISAT GAME",
     "payload": "PATCH / HTTP/1.1[crlf]Host: [host][crlf]Host: www.pubgmobile.com[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf][crlf]",
     "proxy": "104.18.62.229:80",
     "sni": "",
     "enhanced": "true"
   },
   "sfchat": {
-    "title": "SURYACONFIG SMART CHAT",
+    "title": " SMART CHAT",
     "payload": "",
     "proxy": "",
     "sni": "web.whatsapp.com",
     "enhanced": ""
   },
   "sfedu": {
-    "title": "SURYACONFIG SMART EDU",
+    "title": " SMART EDU",
     "payload": "GET / HTTP/1.1[crlf]Host: bimbel.ruangguru.com[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf][split]HTTP/ 69[crlf][crlf]",
     "proxy": "104.17.3.81:80",
     "sni": "",
     "enhanced": "true"
   },
   "sfgame": {
-    "title": "SURYACONFIG SMART GAME",
+    "title": " SMART GAME",
     "payload": "PATCH / HTTP/1.1[crlf]Host: beta.zoom.us[crlf][crlf]GET / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf][split]HTTP/ 69[crlf][crlf]",
     "proxy": "poe.garena.com",
     "sni": "",
     "enhanced": ""
   },
   "sfopok": {
-    "title": "SURYACONFIG SMART OPOK",
+    "title": " SMART OPOK",
     "payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]Host: embed.tawk.to[crlf][crlf]CF-RAY / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
     "proxy": "api.ovo.id",
     "sni": "",
     "enhanced": ""
   },
   "sfyoutube": {
-    "title": "SURYACONFIG SMART YOUTUBE",
+    "title": " SMART YOUTUBE",
     "payload": "",
     "proxy": "",
     "sni": "restrict.youtube.com",
     "enhanced": ""
   },
   "byuggwp": {
-    "title": "SURYACONFIG BYU GGWP",
+    "title": " BYU GGWP",
     "payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]Host: 104.19.143.108[crlf][crlf]CF-RAY / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
     "proxy": "104.19.143.108:80",
     "sni": "",
     "enhanced": ""
   },
   "byuopok": {
-    "title": "SURYACONFIG BYU OPOK SSL",
+    "title": " BYU OPOK SSL",
     "payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]Host: space.byu.id[crlf][crlf]GET-RAY / HTTP/1.1[crlf]Host: [host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
     "proxy": "space.byu.id:443",
     "sni": "[host]",
     "enhanced": ""
   },
   "ilmupedia": {
-    "title": "SURYACONFIG TSELBYU ILMUPEDIA",
+    "title": " TSELBYU ILMUPEDIA",
     "payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]Host: support.zoom.us[crlf][crlf]GET-RAY / HTTP/1.1[crlf]Host: [host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
     "proxy": "170.114.46.6:80",
     "sni": "",
     "enhanced": ""
   },
   "ilmupediassl": {
-    "title": "SURYACONFIG TSEL BYU ILMUPEDIA SSL",
+    "title": " TSEL BYU ILMUPEDIA SSL",
     "payload": "GET / HTTP/1.1[crlf]Host: [host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
     "proxy": "support.zoom.us:443",
     "sni": "[host]",
     "enhanced": ""
   },
   "byurg": {
-    "title": "SURYACONFIG TSELBYU RG",
+    "title": " TSELBYU RG",
     "payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]Host: gw.ruangguru.com[crlf][crlf]MDevz / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
     "proxy": "gw.ruangguru.com:80",
     "sni": "",
     "enhanced": ""
   },
   "gamesmaxirhuya": {
-    "title": "SURYACONFIG TSEL GAMESMAX IRHUYA",
+    "title": " TSEL GAMESMAX IRHUYA",
     "payload": "GET wss://[host]/ HTTP/1.1[crlf]Host: ir.huya.com[crlf]Content-Lenght: [crlf]Connection: Upgrade[crlf]User-Agent: @[ua][crlf]Upgrade: websocket[crlf][crlf]",
     "proxy": "104.17.202.159:80",
     "sni": "",
     "enhanced": ""
   },
   "gamesmaxnimotv": {
-    "title": "SURYACONFIG TSEL GAMESMAX NIMO TV",
+    "title": " TSEL GAMESMAX NIMO TV",
     "payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]Host: cf-vod.nimo.tv[crlf][crlf]CF-RAY / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
     "proxy": "cf-vod.nimo.tv:80",
     "sni": "",
     "enhanced": ""
   },
   "maxstream": {
-    "title": "SURYACONFIG TSEL MAXSTREAM",
+    "title": " TSEL MAXSTREAM",
     "payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]Host: creativeservices.netflix.com[crlf][crlf]GET-RAY / [protocol][crlf]Host: [host][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]User-Agent: [ua][crlf][crlf]",
     "proxy": "104.17.241.25",
     "sni": "",
     "enhanced": "true"
   },
   "tselopokssl": {
-    "title": "SURYACONFIG TSEL OPOK SSL",
+    "title": " TSEL OPOK SSL",
     "payload": "GET-CDN /wss HTTP/1.1[crlf]Host: [host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
     "proxy": "app-stg.gopay.co.id:443",
     "sni": "[host]",
     "enhanced": ""
   },
   "wifiid": {
-    "title": "SURYACONFIG WIFI ID",
+    "title": " WIFI ID",
     "payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]Host: ruangguru.com[crlf][crlf]CF-RAY / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
     "proxy": "ruangguru.com:80",
     "sni": "",
@@ -140,196 +140,196 @@
     "enhanced": ""
   },
   "edu81": {
-    "title": "SURYACONFIG XL AXIS EDU 81",
+    "title": " XL AXIS EDU 81",
     "payload": "GET / HTTP/1.1[crlf]Host: edu.ruangguru.com[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf][split]HTTP/ 69[crlf][crlf]",
     "proxy": "104.17.3.81:80",
     "sni": "",
     "enhanced": ""
   },
   "eduaudisi": {
-    "title": "SURYACONFIG XL AXIS EDU AUDISI",
+    "title": " XL AXIS EDU AUDISI",
     "payload": "GET / HTTP/1.1[crlf]Host: audisi.ruangguru.com[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf][split]HTTP/ 69[crlf][crlf]",
     "proxy": "172.66.152.99:80",
     "sni": "",
     "enhanced": ""
   },
   "eduio": {
-    "title": "SURYACONFIG XL AXIS EDUKASI IO",
+    "title": " XL AXIS EDUKASI IO",
     "payload": "HEAD / HTTP/1.1[crlf]Host: io.ruangguru.com:80[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf][crlf]BMOVE / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]",
     "proxy": "104.17.74.206:80",
     "sni": "",
     "enhanced": "true"
   },
   "gamebooster": {
-    "title": "SURYACONFIG XL AXIS GAME BOOSTER",
+    "title": " XL AXIS GAME BOOSTER",
     "payload": "GET / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Upgrade: websocket[crlf][crlf]",
     "proxy": "web.poe.garena.com:80",
     "sni": "",
     "enhanced": ""
   },
   "genflix": {
-    "title": "SURYACONFIG XL AXIS GENFLIX",
+    "title": " XL AXIS GENFLIX",
     "payload": "GET / HTTP/1.1[crlf]Host: [host_port][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
     "proxy": "beta.genflix.co.id:80",
     "sni": "",
     "enhanced": ""
   },
   "iflix": {
-    "title": "SURYACONFIG XL AXIS IFLIX",
+    "title": " XL AXIS IFLIX",
     "payload": "",
     "proxy": "",
     "sni": "upload.wetv.vip",
     "enhanced": ""
   },
   "maps": {
-    "title": "SURYACONFIG XL AXIS MPAS",
+    "title": " XL AXIS MPAS",
     "payload": "",
     "proxy": "",
     "sni": "maps.gstatic.com",
     "enhanced": ""
   },
   "netflix": {
-    "title": "SURYACONFIG XL AXIS NETFLIX",
+    "title": " XL AXIS NETFLIX",
     "payload": "HEAD /cdn-cgi/trace HTTP/1.1[crlf]Host: npaa.pc.netflix.net[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf][split]HTTP/ 200[crlf][crlf]",
     "proxy": "104.17.241.25:80",
     "sni": "",
     "enhanced": ""
   },
   "opok": {
-    "title": "SURYACONFIG XL AXIS OPOK V1",
+    "title": " XL AXIS OPOK V1",
     "payload": "GET / HTTP/1.1[crlf]Host: [host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
     "proxy": "app.gopay.co.id:80",
     "sni": "",
     "enhanced": ""
   },
   "opokv2": {
-    "title": "SURYACONFIG XL AXIS OPOK V2",
+    "title": " XL AXIS OPOK V2",
     "payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]Host: kuota.axis.co.id[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]GET- / HTTP/1.1[crlf]Host: [host_port][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
     "proxy": "kuota.axis.co.id:80",
     "sni": "",
     "enhanced": ""
   },
   "pros": {
-    "title": "SURYACONFIG XL AXIS PROS",
+    "title": " XL AXIS PROS",
     "payload": "",
     "proxy": "",
     "sni": "v.whatsapp.net",
     "enhanced": ""
   },
   "sosmed": {
-    "title": "SURYACONFIG XL AXIS SOSMED",
+    "title": " XL AXIS SOSMED",
     "payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]Host: [host][crlf][crlf]GET-RAY / HTTP/1.1[crlf]Host: [host][crlf]Connection: Upgrade[crlf]User-Agent: @alwaristore[ua][crlf]Upgrade: websocket[crlf][crlf]",
     "proxy": "invite.tinder.com:80",
     "sni": "",
     "enhanced": "true"
   },
   "sosmedssl": {
-    "title": "SURYACONFIG XL AXIS SOSMED SSL",
+    "title": " XL AXIS SOSMED SSL",
     "payload": "",
     "proxy": "",
     "sni": "investor.fb.com",
     "enhanced": ""
   },
   "spofity": {
-    "title": "SURYACONFIG XL AXIS SPOTIFY",
+    "title": " XL AXIS SPOTIFY",
     "payload": "GET / HTTP/1.1[crlf]Host: [host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
     "proxy": "investors.spotify.com:80",
     "sni": "",
     "enhanced": "true"
   },
   "spotifynew": {
-    "title": "SURYACONFIG XL AXIS SPOTIFY V1",
+    "title": " XL AXIS SPOTIFY V1",
     "payload": "HEAD /cdn-cgi/trace HTTP/1.1[crlf]Host: adshelp.spotify.com[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf][split]HTTP/ 200[crlf][crlf]",
     "proxy": "104.21.46.29:80",
     "sni": "",
     "enhanced": ""
   },
   "spotifyold": {
-    "title": "SURYACONFIG XL AXIS SPOTIFY V2",
+    "title": " XL AXIS SPOTIFY V2",
     "payload": "HEAD /cdn-cgi/trace HTTP/1.1[crlf]Host: investors.spotify.com[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf][split]HTTP/ 200[crlf][crlf]",
     "proxy": "162.159.130.11:80",
     "sni": "",
     "enhanced": ""
   },
   "sushiroll": {
-    "title": "SURYACONFIG XL AXIS SUSHIROL",
+    "title": " XL AXIS SUSHIROL",
     "payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]Host: [host][crlf][crlf]GET-RAY / HTTP/1.1[crlf]Host: [host][crlf]Connection: Upgrade[crlf]User-Agent: @surya[ua][crlf]Upgrade: websocket[crlf][crlf]",
     "proxy": "www.sushiroll.co.id:80",
     "sni": "",
     "enhanced": "true"
   },
   "tiktok": {
-    "title": "SURYACONFIG XL AXIS TIKTOK",
+    "title": " XL AXIS TIKTOK",
     "payload": "GET / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf][repeat]PATCH https://[host] HTTP/1.1[crlf]Host: api24-normal.tiktokv.com[crlf]Upgrade: websocket[crlf][crlf]HTTP/ 9999[crlf][crlf]",
     "proxy": "162.159.141.236:80",
     "sni": "",
     "enhanced": "true"
   },
   "udemy": {
-    "title": "SURYACONFIG XL AXIS UDEMY",
+    "title": " XL AXIS UDEMY",
     "payload": "GET / HTTP/1.1[crlf]Host: bimbel.ruangguru.com[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf][split]HTTP/ 69[crlf][crlf]",
     "proxy": "edu.udemy.com",
     "sni": "",
     "enhanced": ""
   },
   "vidio": {
-    "title": "SURYACONFIG XL AXIS VIDIO",
+    "title": " XL AXIS VIDIO",
     "payload": "GET / HTTP/1.1[crlf]Host: [host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
     "proxy": "quiz.vidio.com:80",
     "sni": "",
     "enhanced": "true"
   },
   "vidiossl": {
-    "title": "SURYACONFIG XL AXIS VIDIO SSL",
+    "title": " XL AXIS VIDIO SSL",
     "payload": "",
     "proxy": "",
     "sni": "static-quiz.prod.vidiocdn.com",
     "enhanced": ""
   },
   "vision+": {
-    "title": "SURYACONFIG XL AXIS VISION+",
+    "title": " XL AXIS VISION+",
     "payload": "GET / HTTP/1.1[crlf]Host: [host_port][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
     "proxy": "104.18.0.25:80",
     "sni": "",
     "enhanced": ""
   },
   "viu": {
-    "title": "SURYACONFIG XL AXIS VIU",
+    "title": " XL AXIS VIU",
     "payload": "HEAD /cdn-cgi/trace HTTP/1.1[crlf]Host: zaintest.vuclip.com[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf][split]HTTP/ 200[crlf][crlf]",
     "proxy": "zaintest.vuclip.com:80",
     "sni": "",
     "enhanced": "true"
   },
   "wassl": {
-    "title": "SURYACONFIG XL AXIS WA SSL",
+    "title": " XL AXIS WA SSL",
     "payload": "",
     "proxy": "",
     "sni": "ssl-listen.noice.id",
     "enhanced": ""
   },
   "waws": {
-    "title": "SURYACONFIG XL AXIS WA WS",
+    "title": " XL AXIS WA WS",
     "payload": "HEAD / HTTP/1.1[crlf]Host: listen.noice.id:80[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf][crlf]BMOVE / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]",
     "proxy": "listen.noice.id:80",
     "sni": "",
     "enhanced": ""
   },
   "dfgames": {
-    "title": "SURYACONFIG XL FLEX WLG UTS AVA",
+    "title": " XL FLEX WLG UTS AVA",
     "payload": "HEAD /cdn-cgi/trace HTTP/1.1[crlf]Host: df.game.naver.com[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf][split]HTTP/ 200[crlf][crlf]",
     "proxy": "104.18.214.235:80",
     "sni": "",
     "enhanced": "true"
   },
   "ig": {
-    "title": "SURYACONFIG XL FLEX WLG UTS IG",
+    "title": " XL FLEX WLG UTS IG",
     "payload": "",
     "proxy": "",
     "sni": "graph.instagram.com",
     "enhanced": ""
   },
   "line": {
-    "title": "SURYACONFIG XL FLEX WLG UTS LINE",
+    "title": " XL FLEX WLG UTS LINE",
     "payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]Host: blog.clova.line.me[crlf][crlf]BMOVE / [protocol][crlf]Host: [host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf][split]HTTP/1.1 200 OK[crlf][crlf]",
     "proxy": "df.game.naver.com:80",
     "sni": "",
