@@ -13,11 +13,11 @@
     "sni": "",
     "enhanced": ""
   },
-  "indosatedu30": {
+  "isatedu30": {
     "title": " ISAT EDU 30GB",
     "payload": "",
-    "proxy": "support.zoom.us:80",
-    "sni": "",
+    "proxy": "",
+    "sni": "support.zoom.us:80",
     "enhanced": ""
   },
   "indosatgame": {
