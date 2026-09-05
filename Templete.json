@@ -341,5 +341,12 @@
     "proxy": "df.game.naver.com:80",
     "sni": "",
     "enhanced": ""
+  },
+  "UDP": {
+    "title": " UDP",
+    "payload": "",
+    "proxy": "",
+    "sni": "",
+    "enhanced": ""
   }
 }
